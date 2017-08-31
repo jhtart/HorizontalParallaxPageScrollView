@@ -9,8 +9,6 @@
 
 HorizontalParallaxPageScrollView is a page with parallex horizontally scroll effect written by pure Swift3.0
 
-<img src="https://github.com/LeoMobileDeveloper/ParallexBanner/blob/master/ScreenShots/gif.gif?raw=true" width="200">
-
 ## Features
 
 - [x] Storyboard and pure code layout
