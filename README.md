@@ -54,6 +54,13 @@ Delegate
 - `pageControl` the pageControl object 
 - `transitionMode` set it to .Normal if you do not want parallex scroll.
 
+## TODO
+
+- [x] Storyboard and pure code layout
+- [x] Auto scroll
+- [x] Infinite scroll
+- [x] WebImage and local image (It use Kingfisher to load web image)
+- [x] Placeholder image
 
 ## Author
 
