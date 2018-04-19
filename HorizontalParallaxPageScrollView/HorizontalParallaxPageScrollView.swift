@@ -1,8 +1,8 @@
 //
 //  PallaxPageScrollView.swift
-//  Memebox
+//  
 //
-//  Created by Elon on 2017. 7. 5..
+//  Created by Kim Jae Hyung on 2017. 7. 5..
 //  Copyright © 2017년 memebox. All rights reserved.
 //
 
